@@ -1,2 +1,6 @@
 # ML-Model-Car-Price-Prediction
-We aim to predict car selling prices using the "cardekho" dataset. Steps involve cleaning (handling missing values, correcting types, addressing outliers), EDA for insights, and preprocessing (encoding categories, scaling features). A RandomForestRegressor will model the selling_price, with hyperparameter tuning for optimal performance..
+The task involves predicting car selling prices using the "cardekho" dataset, which includes various features such as name, year, km_driven, fuel, seller_type, transmission, owner, mileage, engine, max_power, and seats. The problem statement is to build a machine learning model that accurately predicts the selling prices based on these car features and histories.
+
+The initial steps include cleaning the dataset by handling missing values, correcting data types, and addressing outliers to ensure data quality. Exploratory Data Analysis (EDA) will be conducted to understand the relationships between the features and the target variable, selling_price, using visualizations to uncover patterns and correlations.
+
+Data preprocessing will involve encoding categorical variables (e.g., fuel, seller_type, transmission, owner) and scaling numerical features (e.g., km_driven, mileage, engine, max_power). After preprocessing, a machine learning model, such as RandomForestRegressor, will be created to predict selling prices. Hyperparameter tuning will be performed to optimize the model’s performance, ensuring accurate and reliable predictions based on the given car features and histories.
