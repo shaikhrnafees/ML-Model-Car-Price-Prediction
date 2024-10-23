@@ -1,7 +1,7 @@
 # Car Selling Price Prediction
 
 <p align="center">
-  <img src="https://github.com/shaikhrnafees/ML-Model-Car-Price-Prediction/blob/main/gif1.gif" alt="Project GIF" width="42%" style="display:inline-block; vertical-align:top;" /> 
+  <img src="https://drive.google.com/uc?export=view&id=1hMMyjeKf_N4zK9JayOK_kT8yOQOpZYzH" alt="Project GIF" width="42%" style="display:inline-block; vertical-align:top;" /> 
   <img src="https://github.com/shaikhrnafees/ML-Model-Car-Price-Prediction/blob/main/logo.avif" alt="Car Selling Price Prediction Logo" width="12.5%" style="display:inline-block; vertical-align:top;" />
 </p>
 
@@ -66,8 +66,6 @@ Data cleaning is a crucial step in preparing the dataset for modeling. The follo
 Conducted EDA to understand the relationships between the features and the target variable, **selling_price**. Key steps included:
 - **Visualizations**: Used scatter plots, histograms, and heatmaps to uncover patterns and correlations between features and the target variable.
 - **Feature Relationships**: Analyzed how different features impacted selling prices, allowing for insights into which variables were most significant.
-
-![EDA GIF](https://github.com/shaikhrnafees/ML-Model-Car-Price-Prediction/blob/main/dataclean.gif)
 
 ## Data Preprocessing
 
